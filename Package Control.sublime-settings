@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"CSS Extended Completions",
+		"ERB Snippets",
+		"File Rename",
+		"HTMLBeautify",
+		"JSON Reindent",
+		"JSX",
+		"Package Control",
+		"Path Tools",
+		"PHP Codebeautifier",
+		"Phpcs",
+		"Ruby Hash Converter",
+		"SCSS",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeLinter-contrib-scss-lint",
+		"Twig"
+	]
+}
