@@ -19,10 +19,12 @@
 		"Path Tools",
 		"PHP Codebeautifier",
 		"Phpcs",
+		"Ruby Block Converter",
 		"Ruby Hash Converter",
 		"SCSS",
 		"SideBarEnhancements",
 		"Smarty",
+		"Spec Finder",
 		"SublimeLinter-contrib-scss-lint",
 		"Twig"
 	]
